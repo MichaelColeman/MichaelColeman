@@ -2,7 +2,7 @@
 
 ---
 
-about me here
+I am a hobbyist programmer on a mission to become a professional full stack web developer.
 
 ---
 
