@@ -4,9 +4,9 @@
 
 <br>
 
-$$
- **~I ~am ~a ~hobbyist ~programmer ~on ~a ~mission ~to ~become ~a ~professional ~full ~stack ~web ~developer.**
-$$
+$$~I ~am ~a ~hobbyist ~programmer ~on ~a ~mission ~to ~become$$
+
+$$~a ~professional ~full ~stack ~web ~developer.$$
 
 <br>
 
@@ -15,7 +15,6 @@ $$
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 ## 📊 My Statistics 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelcoleman&v=2&custom_title=Time%20Spent%20Programming%20-%20This%20Week)](https://wakatime.com/@MichaelColeman)
