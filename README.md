@@ -19,15 +19,13 @@ I am a hobbyist programmer on a mission to become a professional full stack web 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   
-<p>Wakatime automated activity tracker<p>
-  
 [![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelcoleman&custom_title=Wakatime%20Weekly%20Programming%20Time)](https://wakatime.com/@MichaelColeman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcoleman&layout=compact)](https://github.com/MichaelColeman?tab=repositories)
 
 ---
 
-### 📚 Free Web Development Learning Resources That I Recommend
+### 📚 Free Learning Resources That I use and Recommend
 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Codecademy](https://www.codecademy.com/)
