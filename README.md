@@ -22,7 +22,7 @@ $$~a ~professional ~full ~stack ~web ~developer.$$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelColeman&layout=compact&custom_title=Most%20Used%20Languages%20-%20All%20Time)](https://github.com/MichaelColeman?tab=repositories)
 
 
-## 📚 Free Learning Resources That I use and Recommend
+## 📚 Useful Learning Resources
 - [The Odin Project](https://www.theodinproject.com/)
 - [Codecademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
