@@ -4,9 +4,7 @@
 
 <br>
 
-$$~I ~am ~a ~hobbyist ~programmer ~on ~a ~mission ~to ~become$$
-
-$$~a ~professional ~full ~stack ~web ~developer.$$
+Studying to become a full stack web developer.
 
 <br>
 
