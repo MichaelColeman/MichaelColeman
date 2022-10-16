@@ -1,13 +1,5 @@
-<!--  I understand that one of the main advantages of markdown is that it can still be beautiful and legible as plain text. I am stretching its styling capabilities here by mixing in bits of html and other styles in order to create a good looking github profile page. My purpose for this page is to entice the hiring departments of potential employers that may not be programmers themselves. So if you see this and are horrified by the lack of beauty in its raw format, I apologize!  -->
-
 ## 👋 Hello, World! 
-
-<br>
-
-Studying to become a full stack web developer.
-
-<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I am a new web developer.
 ## 🎓 What I am Currently learning
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
