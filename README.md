@@ -7,9 +7,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 My Statistics 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelcoleman&v=2&custom_title=Time%20Spent%20Programming%20-%20This%20Week)](https://wakatime.com/@MichaelColeman)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelcoleman&v=2&theme=transparent&custom_title=Time%20Spent%20Programming%20-%20This%20Week)](https://wakatime.com/@MichaelColeman)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelColeman&layout=compact&custom_title=Most%20Used%20Languages%20-%20All%20Time)](https://github.com/MichaelColeman?tab=repositories)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelColeman&layout=compact&theme=transparent&custom_title=Most%20Used%20Languages%20-%20All%20Time)](https://github.com/MichaelColeman?tab=repositories)
 
 
 ## 📚 Useful Learning Resources
