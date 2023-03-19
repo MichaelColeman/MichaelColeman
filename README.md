@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi</h2>
-<p align="center"> I am a web developer from Sacramento, California 📍</p>
+<p align="center"> I am a web developer from Sacramento, California 📍. I am looking for a job in back end web development!</p>
 <h4> 🧠 I am Knowledgeable With:</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
