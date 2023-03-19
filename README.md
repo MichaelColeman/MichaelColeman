@@ -1,6 +1,6 @@
 <div align='center'>
   <h2>Hi, I'm Tommy 👋</h2>
-  <p> I am a web developer from Sacramento, California 📍.</p>
+  <p> I am a Web Developer from Sacramento, California 📍</p>
 
   <h4>🧠 I am Currently Learning:</h4> 
 
