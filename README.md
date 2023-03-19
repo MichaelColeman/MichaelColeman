@@ -14,11 +14,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-<h4>📊 Github Overall Breakdown of Languages:</h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelColeman&langs_count=9&text_color=ffffff&hide_border=true&hide_title=true&theme=transparent)](https://github.com/MichaelColeman?tab=repositories)
-
-<h4>📚 Useful Learning Resources For Students!</h4>
+<h4>📚 Useful Learning Resources For Beginners</h4>
 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Codecademy](https://www.codecademy.com/)
