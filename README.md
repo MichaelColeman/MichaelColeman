@@ -9,7 +9,7 @@
   <h4>🖥️ Reach me:</h4>
   
   [![My Portfolio](https://img.shields.io/static/v1?label=Portfolio%20Site&message=%20&color=red&style=for-the-badge&logo=aiohttp)](https://michaelcoleman.github.io/portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcolemancodes/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommycdev/)
 
 </div>
 
