@@ -1,10 +1,9 @@
 <div align='center'>
   <h2>Hi, I'm Tommy and I like to make stuff 👋</h2>
-  <p>Sacramento, California. 📍</p>
 
-  <h4>🧠 I am Currently Learning:</h4> 
-
-  python and data structures
+  <h4>🧠 I am Currently Learning:</h4>
+  
+  Python and data structures
   
   
   <h4>🖥️ Reach me:</h4>
